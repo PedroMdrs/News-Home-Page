@@ -55,7 +55,7 @@ My layout is certainly not perfect,i had some trouble on the alignment part on d
 
 ## Author
 
-- Website - [My github ](https://github.com/xPedro-Medeiros)
+- Website - [My Github ](https://github.com/PedroMdrs)
 - Frontend Mentor - [@xPedro-Medeiros](https://www.frontendmentor.io/profile/xPedro-Medeiros)
 - Twitter - [@MaiSupremacyi](https://twitter.com/MaiSupremacyi)
 
